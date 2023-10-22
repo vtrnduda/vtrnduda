@@ -6,7 +6,7 @@
 - 🌱 Aprendendo Java, C# e Desenvolvimento para Realidade Virtual ;)
 - ⚡ Pesquisadora na área de desenvolvimento de Ambientes Virtuais para o Metaverso
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtrnduda&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
