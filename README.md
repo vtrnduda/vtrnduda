@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Desenvolvedora de Software Python & Estudante de Sistemas para Internet no IFPB
+- 🔭 Desenvolvedora Back-end Python & Estudante de Sistemas para Internet no IFPB
 - 🌱 Aprendendo Java, C# e Desenvolvimento para Realidade Virtual ;)
 - ⚡ Pesquisadora na área de desenvolvimento de Ambientes Virtuais para o Metaverso
 
