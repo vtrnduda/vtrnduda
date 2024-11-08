@@ -1,10 +1,9 @@
-### Olá, bem vindo(a) ao meu GitHub! ✌
+### Hello, welcome to my GitHub! ✌
 
 
-
-- 🔭 Desenvolvedora Back-end Python & Estudante de Sistemas para Internet no IFPB
-- 🌱 Aprendendo Java, Machine Learning e Desenvolvimento para Realidade Aumentada e Virtual ;)
-- ⚡ Pesquisadora na área de desenvolvimento de Ambientes Virtuais para o Metaverso
+- 🔭 Back-end Developer with Python & Internet Systems student at Federal Institute of Paraíba
+- 🌱 Learning Java, AI/ML and Data Science ;)
+- ⚡ Researcher in the field of Virtual Environment Development for the Metaverse
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtrnduda&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
