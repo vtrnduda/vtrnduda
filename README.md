@@ -1,7 +1,7 @@
 ### Hello, welcome to my GitHub! ✌
 
 
-- 🔭 Back-end Developer with Python & Internet Systems student at Federal Institute of Paraíba
+- 🔭 AI/ML Engineer at @ [GRAN](https://www.grancursosonline.com.br/) & Internet Systems student at @ [IFPB](https://www.ifpb.edu.br/)
 - 🌱 Learning Java, AI/ML and Data Science ;)
 - ⚡ Researcher in the field of Virtual Environment Development for the Metaverse
 
