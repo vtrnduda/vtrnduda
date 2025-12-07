@@ -3,9 +3,7 @@
 
 - 🔭 AI/ML Engineer & Internet Systems student at @ [IFPB](https://www.ifpb.edu.br/)
 - 🌱 Learning Generative AI architectures and Data Science ;)
-- ⚡ Researcher in the field of Virtual Environment Development for the Metaverse
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtrnduda&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- ⚡ Data Science Researcher at SIDE (Semantics, Intelligence and Data Ecosystems) 
 
 
 <div style="display: inline_block"><br>
