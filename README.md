@@ -1,9 +1,9 @@
 ### Hello, welcome to my GitHub! ✌
 
 
-- 🔭 AI/ML Engineer & Internet Systems student at @ [IFPB](https://www.ifpb.edu.br/)
+- 🔭 AI/ML Engineer & Internet Systems student @ [IFPB](https://www.ifpb.edu.br/)
 - 🌱 Learning Generative AI architectures and Data Science ;)
-- ⚡ Data Science Researcher at SIDE (Semantics, Intelligence and Data Ecosystems) 
+- ⚡ Data Science Researcher @ SIDE (Semantics, Intelligence and Data Ecosystems) 
 
 
 <div style="display: inline_block"><br>
